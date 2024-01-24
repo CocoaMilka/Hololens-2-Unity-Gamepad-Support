@@ -1,0 +1,4 @@
+.git/objects/pack/pack-3e5b0c61abeaff0fa8976651518a6ebaab5dd125.pack filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/WindowsStoreApps/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+Packages/MixedReality/com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz filter=lfs diff=lfs merge=lfs -text
